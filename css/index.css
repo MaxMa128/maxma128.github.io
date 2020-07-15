@@ -2401,12 +2401,12 @@ blockquote footer cite:before {
   transition: all 0.5s;
 }
 #page-header.full_page {
-  height: 400px;
+  height: 420px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
   position: absolute;
-  top: 200px;
+  top: 43%;
   padding: 0 0.5rem;
   width: 100%;
 }
