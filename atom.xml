@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Max Ma</title>
+  <title>Max Ma的个人博客</title>
   
-  
+  <subtitle>Max Ma</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maxma128.github.io/"/>
