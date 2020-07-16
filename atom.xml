@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maxma128.github.io/"/>
-  <updated>2020-07-10T20:09:10.565Z</updated>
+  <updated>2020-07-16T15:47:44.807Z</updated>
   <id>http://maxma128.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://maxma128.github.io/2020/07/16/test/"/>
+    <id>http://maxma128.github.io/2020/07/16/test/</id>
+    <published>2020-07-16T15:45:16.000Z</published>
+    <updated>2020-07-16T15:47:44.807Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="格式粗体、斜体、-高亮-、删除线、下划线、我是-上标-、我是下标、超链接"><a href="#格式粗体、斜体、-高亮-、删除线、下划线、我是-上标-、我是下标、超链接" class="headerlink" title="格式粗体、斜体、==高亮==、删除线、下划线、我是^上标^、我是下标、超链接"></a>格式<strong>粗体</strong>、<em>斜体</em>、==高亮==、<del>删除线</del>、下划线、我是^上标^、我是<del>下标</del>、<a href="http://www.baidu.com" target="_blank" rel="noopener">超链接</a><img src= "/img/loading.gif" data-src="https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2411953504.jpg" alt="图片"></h2><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><ul><li>无序列表1</li><li>无序列表 2</li></ul><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol><li>有序列表 </li><li>有序列表 <h2 id="任务列表"><a href="#任务列表" class="headerlink" title="任务列表"></a>任务列表</h2></li></ol><ul><li><input disabled="" type="checkbox"> 看电影</li><li><input disabled="" type="checkbox"> 听音乐</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;格式粗体、斜体、-高亮-、删除线、下划线、我是-上标-、我是下标、超链接&quot;&gt;&lt;a href=&quot;#格式粗体、斜体、-高亮-、删除线、下划线、我是-上标-、我是下标、超链接&quot; class=&quot;headerlink&quot; title=&quot;格式粗体、斜体、==高亮==、删除线、下
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
