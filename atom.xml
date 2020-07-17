@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maxma128.github.io/"/>
-  <updated>2020-07-17T11:22:29.174Z</updated>
+  <updated>2020-07-17T11:47:23.840Z</updated>
   <id>http://maxma128.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://maxma128.github.io/2020/07/17/test/"/>
     <id>http://maxma128.github.io/2020/07/17/test/</id>
     <published>2020-07-17T10:40:19.000Z</published>
-    <updated>2020-07-17T11:22:29.174Z</updated>
+    <updated>2020-07-17T11:47:23.840Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Zeal-–必备离线学习文档"><a href="#Zeal-–必备离线学习文档" class="headerlink" title="Zeal –必备离线学习文档"></a>Zeal –必备离线学习文档</h1><hr><p>在入门前端学习时，需要经常查阅标html、css等语言的文档，常用在线教程网站有 <a href="https://www.runoob.com/" target="_blank" rel="noopener">菜鸟教程</a>和 <a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">w3cschool</a>。但在线网站每次都要打开浏览器再进网页查询，属实麻烦，且在飞机等无网状态下的时候就无法使用。这里推荐离线文档软件Zeal。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><hr><ol><li><p><a href="https://zealdocs.org/" target="_blank" rel="noopener">官网下载</a></p></li><li><p>安装后在选择工具下的文档设置，如图:</p><img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal1.png" style="zoom:80%"></li><li><p>然后选择上方的Available就可搜索选择想要的文档啦，双击或点Download下载</p> <img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal2.png" style="zoom:50%"></li></ol><h2 id="显示错误解决方法"><a href="#显示错误解决方法" class="headerlink" title="显示错误解决方法"></a>显示错误解决方法</h2><hr><p>文档下载完成后会出现在首页左侧</p><img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal3.png" style="zoom:65%">但在最新0.6.1版本中通常会打不开，报错<img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal4.png" style="zoom:40%"><h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><ol><li><p>打开偏好设置并找到文档下载位置</p> <img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal5.png" style="zoom:70%"><img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal6.png" style="zoom:70%"></li><li><p>根据地址进到目录下，选择出现问题的文档</p><img src= "/img/loading.gif" data-src="/2020/07/17/test/zeal7.png" style="zoom:70%"></li><li><p>接着以此进入路径：</p><blockquote><p>Contents\Resources\Documents\developer.mozilla.org\static\build\js</p></blockquote></li><li><p>删除 react-main.ddbbd86b0685.js或类似react-main.XXX.js的文件</p></li></ol><ol start="5"><li>重新打开 Zeal就可以查看啦</li></ol><hr><ul><li>解决方法来自<a href="https://blog.csdn.net/qq_41649001/article/details/103206492" target="_blank" rel="noopener">CSDN</a></li></ul>]]></content>
     
