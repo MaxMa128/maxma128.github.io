@@ -119,12 +119,12 @@ if (autoChangeMode === '1') {
 }
 
 var guestInfo = requestSetting(['nick','mail','link'],'nick,mail,link')
-var requiredFields = requestSetting(['nick','mail'],'nick,mail')
+var requiredFields = requestSetting(['nick','mail'],'false')
 
 window.valine = new Valine({
   el:'#vcomment',
-  appId: 'RYmj3o7ym9CfJ2jC1Pzk5lsd-gzGzoHsz',
-  appKey: 'DzKDFD8imdeHPesdPaAOPv9u',
+  appId: 'J9dIa1NU0ib2y31kFburn3mn-MdYXbMMI',
+  appKey: 'vTInebDxU6k3Um9UkpGKv85K',
   placeholder: '可以留下昵称和邮箱...以便快速收到回复哦。',
   avatar: 'monsterid',
   meta: guestInfo,
