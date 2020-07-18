@@ -151,7 +151,7 @@ if (autoChangeMode === '1') {
 }
 
 var guestInfo = requestSetting(['nick','mail','link'],'nick,mail,link')
-var requiredFields = requestSetting(['nick','mail'],'false')
+var requiredFields = requestSetting(['nick','mail'],'')
 
 window.valine = new Valine({
   el:'#vcomment',
@@ -163,7 +163,7 @@ window.valine = new Valine({
   pageSize: '10',
   lang: 'zh-CN',
   recordIP: false,
-  serverURLs: 'true',
+  serverURLs: '',
   emojiCDN: '',
   emojiMaps: "",
   enableQQ: true,
