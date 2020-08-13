@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maxma128.github.io/"/>
-  <updated>2020-07-21T04:44:34.708Z</updated>
+  <updated>2020-08-13T00:45:26.792Z</updated>
   <id>http://maxma128.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>turing2</title>
+    <link href="http://maxma128.github.io/posts/3149592280/"/>
+    <id>http://maxma128.github.io/posts/3149592280/</id>
+    <published>2020-08-13T00:39:29.000Z</published>
+    <updated>2020-08-13T00:45:26.792Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo、Markdown使用笔记</title>
